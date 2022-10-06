@@ -1,5 +1,3 @@
-from lib2to3.pytree import Base
-from operator import mod
 from django.db import models
 from django.contrib.auth.models import AbstractBaseUser
 from django.contrib.auth.models import PermissionsMixin
